@@ -1,0 +1,23 @@
+body {
+  font-size: 0.875rem;
+}
+
+#facebookinop {
+  position: relative;
+  max-width: 350px;
+  max-height: 500px;
+  padding: 10px;
+  overflow: auto;
+}
+
+#facebookinop li {
+}
+
+.message {
+  margin-left: 5px; 
+}
+
+.profile-picture {
+  position: absolute;
+  width: 50px; 
+}
